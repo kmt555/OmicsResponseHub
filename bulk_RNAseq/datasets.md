@@ -1,4 +1,4 @@
-= Testing
+# Testing
 :idprefix:
 :idseparator: -
 :sectanchors:
@@ -11,14 +11,14 @@
 
 toc::[]
 
-== Getting started
+## Getting started
 
 just <<testing-this-repo>>
 
-=== Some documentation
+### Some documentation
 
 ....
 git ls-files | grep modulename
 ....
 
-== Something else
+## Something else
