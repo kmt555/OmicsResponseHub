@@ -23,7 +23,9 @@ Other studies that re-use these data:
   * [Livnat Jerby-Arnon et al Cell 2018](https://pubmed.ncbi.nlm.nih.gov/30388455/) "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade."
 
 
-### Example 2.
+## Perturb-CITE-seq: ~750 (CRISPR)-Cas9 perturbations + single-cell transcriptome (~218K cells) + 20 proteins
+Samples: "patient-derived melanoma cells and autologous tumor-infiltrating lymphocyte (TIL) co-cultures"
+[Frangieh, Melms, Thakore, Geiger-Schuller et al 2021](https://pubmed.ncbi.nlm.nih.gov/33649592/)
 
 ## Drug treatment + bulk RNA profiling prior and after the treatment
 
