@@ -15,7 +15,9 @@
 
 # Cell perturbations
 
-## Drugs: 131 drugs across 639 human cell lines
+## Small molecules
+
+### 131 drugs across 639 human cell lines
 
   * [Garnett et al Nature 2012 "Systematic identification of genomic markers of drug sensitivity in cancer cells"](https://pubmed.ncbi.nlm.nih.gov/22460902/).
 
@@ -23,8 +25,9 @@ Other studies that re-use these data:
 
   * [Livnat Jerby-Arnon et al Cell 2018](https://pubmed.ncbi.nlm.nih.gov/30388455/) "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade."
 
+## Genetic-based 
 
-## (CRISPR)-Cas9: Perturb-CITE-seq 
+### (CRISPR)-Cas9: Perturb-CITE-seq 
 [Frangieh, Melms, Thakore, Geiger-Schuller et al 2021](https://pubmed.ncbi.nlm.nih.gov/33649592/)
 
 ~750 (CRISPR)-Cas9 perturbations + single-cell transcriptome (~218K cells) + 20 proteins.
