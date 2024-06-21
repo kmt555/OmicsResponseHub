@@ -17,7 +17,11 @@
 ## Drug treatment + bulk RNA profiling prior to treatment start
 
 ### Garnett et al. Nature 2012.
-131 drugs across 639 human cell lines: `https://pubmed.ncbi.nlm.nih.gov/22460902/`
+131 drugs across 639 human cell lines: [Garnett et al Nature 2012](https://pubmed.ncbi.nlm.nih.gov/22460902/)
+
+  * [Livnat Jerby-Arnon et al Cell 2018](https://pubmed.ncbi.nlm.nih.gov/30388455/) "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade."
+
+
 
 ### Example 2.
 
