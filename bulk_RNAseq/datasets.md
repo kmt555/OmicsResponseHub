@@ -16,7 +16,8 @@
 
 ## Drug treatment + bulk RNA profiling prior to treatment start
 
-### Example 1.
+### Garnett et al. Nature 2012.
+131 drugs across 639 human cell lines: `https://pubmed.ncbi.nlm.nih.gov/22460902/`
 
 ### Example 2.
 
