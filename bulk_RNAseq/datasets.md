@@ -17,7 +17,9 @@
 ## Drug treatment + bulk RNA profiling prior to treatment start
 
 ### Garnett et al. Nature 2012.
-131 drugs across 639 human cell lines: [Garnett et al Nature 2012](https://pubmed.ncbi.nlm.nih.gov/22460902/)
+This original study titled "Systematic identification of genomic markers of drug sensitivity in cancer cells," profiled 131 drugs across 639 human cell lines [Garnett et al Nature 2012](https://pubmed.ncbi.nlm.nih.gov/22460902/).
+
+Other studies that re-use these data:
 
   * [Livnat Jerby-Arnon et al Cell 2018](https://pubmed.ncbi.nlm.nih.gov/30388455/) "A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade."
 
